@@ -1,0 +1,21 @@
+{
+  "permissions": [
+    "activeTab"
+  ],
+  "manifest_version": 2,
+  "name": "__MSG_extensionFullName__",
+  "short_name": "__MSG_extensionShortName__",
+  "version": "0.1.0",
+  "description": "__MSG_extensionDescription__",
+  "author": "Matthew Tylee Atkinson",
+  "homepage_url": "https://github.com/matatk/partner-center-linting-bug/",
+  "default_locale": "en_GB",
+  "browser_action": {
+    "default_title": "Add content to page"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  }
+}

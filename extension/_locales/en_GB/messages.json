@@ -1,0 +1,14 @@
+{
+  "extensionShortName": {
+    "message": "Linting Bug"
+  },
+  "extensionFullName": {
+    "message": "Demonstration of Partner Center Linting Localisation Bug"
+  },
+  "extensionDescription": {
+    "message": "This extension works fine and implements localisation correctly, but Partner Center rejects it."
+  },
+  "exampleLocalisedWord": {
+    "message": "Colour"
+  }
+}
